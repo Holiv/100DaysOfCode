@@ -7,4 +7,4 @@
 
 **Thoughts:** It was very useful because i was able to work with some different methods even in a simple example. Very straight forward.
 
-**Link to work:** [Capitalize First Letter Program](...)
+**Link to work:** [Capitalize First Letter Program]((https://github.com/Holiv/capitalize-first-letter))
