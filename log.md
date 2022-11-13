@@ -73,3 +73,21 @@ Things work a little bit different when talking about Objects as we see before i
 To finish is important to know that in JavaScript there is no **passing by reference** as other programming languages. Even though we are passing the reference as an argument to the function it goes as a **value** (value that is equal to the object reference in memory) and not by **reference.**
 
 **Link to work:** [Value vs Refference](https://github.com/Holiv/js_value_vs_refference)
+
+## Day 4: November 12, 2022
+### The .call() method
+
+**Today's Progress**: Using the .call() method to borrow a method from another Object
+
+**Thoughts:** 
+The ***.call() method*** is a function method that allows us to borrow objects methods from a certain object to another object. It excludes the need to repeat the code when creating similar objects that has similar methods.
+
+The number of arguments that the ***.call()*** method will receive will depend on the original method that we are borrowing, but the important point here is that ***the first argument will always be the name of the object that we are borrowing the method. It means that the .call() method will always have at least one argument. The others arguments will be the arguments to attend the parameters of the original method if it is necessary.***
+
+**The following sequence of what happened in the code above:**
+
+- We called the ***book method*** using `qatarAirlines.book`
+- As ***book*** is also a function so we were able to use the ***.call()*** method - Here we are saying: <ins>"Hey, qatarAirlines, can you borrow your ***book*** method so that i can use it in my new Airline?”</ins>
+- The we pass as the first argument the ***emiratesAirline***, it says to the code that we are borrowing the ***book*** method from the ***qatarAirlines*** to use in the ***emiratesAirline.***
+
+**Link to work:** [The .call() method](https://github.com/Holiv/javascript_call_method)
