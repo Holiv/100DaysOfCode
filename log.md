@@ -74,7 +74,7 @@ To finish is important to know that in JavaScript there is no **passing by refer
 
 **Link to work:** [Value vs Refference](https://github.com/Holiv/js_value_vs_refference)
 
-## Day 4: November 12, 2022
+## Day 5: November 13, 2022
 ### The .call() method
 
 **Today's Progress**: Using the .call() method to borrow a method from another Object
