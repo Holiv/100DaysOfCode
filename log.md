@@ -91,3 +91,23 @@ The number of arguments that the ***.call()*** method will receive will depend o
 - The we pass as the first argument the ***emiratesAirline***, it says to the code that we are borrowing the ***book*** method from the ***qatarAirlines*** to use in the ***emiratesAirline.***
 
 **Link to work:** [The .call() method](https://github.com/Holiv/javascript_call_method)
+
+## Day 6: November 14, 2022
+### Creating a Poll using some advanced topics
+
+**Today's Progress**: Creating a poll that prompts the user for his favorite programming language.
+
+**Thoughts:** 
+
+Covered topics in the program:
+
+1. `String manipulation`
+2. `Array manipulation`
+3. `.fill() method`
+4. `.joins() method`
+5. `this. keyword`
+6. `.bind() method`
+7. `short circuiting`
+8. `DOM manipulation`
+
+**Link to work:** [The poll](https://github.com/Holiv/favourite_programming_lenguage_poll)
