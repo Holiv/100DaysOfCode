@@ -111,3 +111,16 @@ Covered topics in the program:
 8. `DOM manipulation`
 
 **Link to work:** [The poll](https://github.com/Holiv/favourite_programming_lenguage_poll)
+
+## Day 7: November 15, 2022
+### Closures - Understanding how closures works
+
+**Today's Progress**: Creating an example to understand how closure works
+
+**Thoughts:** 
+
+- we dont create closures, it simply happens automatically in some situations and our work is to recognize it.
+- closure makes a function remember all the variables that existed at the function's birthplace
+- Whenever you create a function within another function, you have created a closure. The inner function is the closure. This closure is usually returned so you can use the outer function’s variables at a later time.
+
+**Link to work:** [Closures](https://github.com/Holiv/understanding-closures)
