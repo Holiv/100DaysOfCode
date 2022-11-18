@@ -137,3 +137,16 @@ Covered topics in the program:
 - The Closure allows the inner function to be executed even after the self invocked function is already pulled off from the stack
 
 **Link to work:** [Closures](https://github.com/Holiv/understanding-closures)
+
+## Day 9: November 17, 2022
+### Fixing a Bug
+
+**Today's Progress**: Create a pull request to fix a bug in 
+
+**Thoughts:** 
+
+- First task was to discover the bug origin
+- Fixing the bug
+- Codoe improvement applying the DRY method
+
+**Link to work:** [Pull Request](https://github.com/Joel-Nwamba/Library/pull/2/commits/03fa9a1efb3d456832409550c0e3ad9a5592a17a)
