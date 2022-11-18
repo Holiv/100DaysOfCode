@@ -124,3 +124,16 @@ Covered topics in the program:
 - Whenever you create a function within another function, you have created a closure. The inner function is the closure. This closure is usually returned so you can use the outer function’s variables at a later time.
 
 **Link to work:** [Closures](https://github.com/Holiv/understanding-closures)
+
+## Day 8: November 16, 2022
+### Closures - DOM Manipulation 
+
+**Today's Progress**: Using Closure with a Self Invoked Function
+
+**Thoughts:** 
+
+- A self invoked function is a function that is executed imediataly and can have as a parameter another function.
+- The inner function can be a function that will not execute at the time of the Self Invoked Function is called. A event listener for example.
+- The Closure allows the inner function to be executed even after the self invocked function is already pulled off from the stack
+
+**Link to work:** [Closures](https://github.com/Holiv/understanding-closures)
