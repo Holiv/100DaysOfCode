@@ -150,3 +150,29 @@ Covered topics in the program:
 - Codoe improvement applying the DRY method
 
 **Link to work:** [Pull Request](https://github.com/Joel-Nwamba/Library/pull/2/commits/03fa9a1efb3d456832409550c0e3ad9a5592a17a)
+
+## Day 10 ~ 12: November 18 ~ 20, 2022
+### Starting the Vector Bank Project
+
+**Today's Progress**: Starting a real project to practice the use of Array as Data Structure 
+
+**Thoughts:** 
+
+- Looping Arrays using forEach
+- Creating DOM Elements using Array data.
+
+**Link to work:** [Vector Bank](https://github.com/Holiv/vector_bank)
+
+## Day 13: November 21, 2022
+### Array Coding CHallenge
+
+**Today's Progress**: Solving a coding challenge about Array 
+
+**Thoughts:** 
+
+- Used methods:
+  - `.slice()`
+  - `.forEach()`
+  - `.concat()`
+
+**Link to work:** [Array Coding Challenge](https://github.com/Holiv/array_coding-challenge-1)
